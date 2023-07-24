@@ -24,7 +24,7 @@
   ],
   "deploy": {
     "message": "Dev Site Update.",
-    "repo": "https://github.com/tlylt/mb-test.git",
+    "repo": "https://github.com/WillCWX/ghpages-test.git",
     "branch": "gh-pages"
   }
 }
