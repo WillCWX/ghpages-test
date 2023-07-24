@@ -8,21 +8,6 @@
       "headingKeywords": {}
     },
     {
-      "src": "README.md",
-      "headings": {
-        "welcome-to-github": "Welcome to GitHub",
-        "repositories": "Repositories",
-        "describe-your-project": "Describe your project",
-        "your-first-website": "Your first website",
-        "rename-this-repository-to-publish-your-site": "Rename this repository to publish your site",
-        "making-your-first-edit": "Making your first edit",
-        "practice-customize-your-first-github-website-by-writing-html-code": "Practice: Customize your first GitHub website by writing HTML code",
-        "extra-credit-keep-on-building": "Extra Credit: Keep on building!",
-        "everything-you-need-to-know-about-github": "Everything you need to know about GitHub"
-      },
-      "headingKeywords": {}
-    },
-    {
       "src": "contents/topic1.md",
       "title": "Topic 1",
       "headings": {
